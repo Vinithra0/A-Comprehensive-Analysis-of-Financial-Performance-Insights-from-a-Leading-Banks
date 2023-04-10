@@ -1,0 +1,17 @@
+<!DOCTYPE html>  
+<html>  
+<title>Javascript API</title>  
+<body>  
+
+<h1>My Tableau Viz</h1>  
+
+<script type='text/javascript' src='https://public.tableau.com/javascripts/api/viz_v1.js'>  
+</script>
+<object class='tableauViz' width='1200' height='1000' style='display:none;' name='viz'>
+<param name='host_url' value='http://tableau.zuar.com/' />
+<param name='site_root' value='' />
+<param name='name' value='Superstore/Product' />
+</object>
+
+</body>
+</html>
