@@ -1,7 +1,7 @@
 A Comprehensive Analysis of Financial Performance: Insights from a
 Leading Banks
 
-Tableau Cloud Mailid:
+Tableau Online Mail id:
 vinithrap20032002@gmail.com
 Password:
 Vini@123
