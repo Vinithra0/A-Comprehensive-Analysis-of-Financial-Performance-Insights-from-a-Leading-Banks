@@ -1,6 +1,11 @@
 A Comprehensive Analysis of Financial Performance: Insights from a
 Leading Banks
 
+Tableau Cloud Mailid:
+vinithrap20032002@gmail.com
+Password:
+Vini@123
+
 Milestone4(1.1)
 https://us-west-2b.online.tableau.com/#/site/vinithra/views/Dashboard/Sheet1?:iid=5
 Milestone4(1.2)
