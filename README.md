@@ -1,6 +1,9 @@
 A Comprehensive Analysis of Financial Performance: Insights from a
 Leading Banks
 
+Milestones
+https://drive.google.com/folderview?id=1TQFYFDatj2aXNkW4CiFDmm76xNyNdlyI
+
 Project Video Link
 https://drive.google.com/drive/mobile/folders/1ScZnP1pMFBqemV7NYfmb8TlBzRWVV3SE
 
